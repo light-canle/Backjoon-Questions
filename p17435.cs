@@ -3,6 +3,8 @@ using System.Text;
 using System.IO;
 using System.Collections.Generic;
 
+// 50th gold problem
+
 public class Program
 {
     public static void Main(string[] args)
