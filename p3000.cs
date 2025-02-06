@@ -5,6 +5,7 @@ using System.Collections.Generic;
 // p3000 - 직각 삼각형 (S1)
 // #조합론 #기하학
 // 2025.2.6 solved
+// 300th silver problem
 
 public class Program
 {
