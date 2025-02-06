@@ -1,6 +1,10 @@
 using System;
 using System.Collections.Generic;
 
+// p2857 - FBI (B3)
+// #문자열
+// 2025.2.6 solved
+
 public class Program
 {
     public static void Main(string[] args)
