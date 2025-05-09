@@ -1,9 +1,4 @@
 using System;
-using System.Numerics;
-using System.Linq;
-using System.IO;
-using System.Text;
-using System.Collections.Generic;
 
 // p30468 - 호반우가 학교에 지각한 이유 1 (B4)
 // #사칙연산
