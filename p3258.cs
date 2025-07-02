@@ -3,7 +3,7 @@ using System.Linq;
 using System.Collections.Generic;
 
 // p3258 - 컴포트 (S3)
-// #그리디 #정렬
+// #시뮬레이션
 // 2025.7.2 solved
 
 public class Program
