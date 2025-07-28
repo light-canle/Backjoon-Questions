@@ -6,6 +6,7 @@ using System.Collections.Generic;
 // p28245 - 배고파(Hard) (S3)
 // #완전 탐색
 // 2025.7.26 solved
+// 400th silver problem
 
 public class Program
 {
