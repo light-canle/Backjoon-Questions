@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 // p13273 - 로마숫자 (G5)
 // #구현 #문자열
-// 2025.8.25 solved
+// 2025.8.24 solved
 
 public class Program
 {
