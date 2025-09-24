@@ -7,6 +7,7 @@ using System.Text;
 // p13977 - 이항 계수와 쿼리 (P5)
 // #DP #조합론 #페르마의 소정리 #모듈러 역원 #분할 정복을 이용한 거듭제곱
 // 2025.9.23 solved
+// 10th platinum problem
 
 public class Program
 {
