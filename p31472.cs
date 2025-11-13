@@ -4,7 +4,7 @@ using System;
 
 // p31472 - 갈래의 색종이 자르기 (B3)
 // #수학
-// 2025.11.13 solved
+// 2025.11.13 solved (11.12)
 
 public class Program
 {
