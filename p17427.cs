@@ -14,14 +14,11 @@ public class Program
 
         long sum = 0;
         // 1부터 n까지 각각의 수의 약수의 합을 모두 더한다.
-        for (int i = 1; i <= n; i++)
+        for (long i = 1; i <= n; i++)
         {
             // i부터 n 이하의 i의 배수들은 모두 i를 약수로 가지고 있기 때문에,
             // 배수의 개수만큼 i를 누적시키면 된다.
-            for (int j = i; j <= n; j += i)
-            {
-                sum += i;
-            }
+            sum += i * (n / i);
         }
         Console.WriteLine(sum);
     }
